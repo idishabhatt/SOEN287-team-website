@@ -348,4 +348,5 @@ See [INSTALLATION-GUIDE.md](INSTALLATION-GUIDE.md) for full setup instructions a
 
 ## Course
 
-**SOEN 287 — Web
+**SOEN 287 — Web Programming**  
+Concordia University — Summer 2026
