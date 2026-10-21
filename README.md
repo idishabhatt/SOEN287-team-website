@@ -4,7 +4,7 @@ A web-based campus event planning application for **SOEN 287: Web Programming (S
 
 This repository contains the **complete project** — Deliverable 1 (frontend) and Deliverable 2 (full stack with Node.js, Express, SQLite, authentication, and database-driven features).
 
-![CampusConnect home page](public/images/homepage-screenshot.png)
+![CampusConnect home page](/Users/dishabhatt/Downloads/CampusConnect.png)
 
 ## Project Overview
 
